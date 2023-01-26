@@ -1,5 +1,3 @@
-# Hi there 👋
-
 # 💫 About Me:
 My name is Ahsan and I am a software engineer with a background in healthcare who is passionate about helping companies create accessible solutions for improving the lives of individuals and communities everywhere.<br><br>Ask me about VaaS, an open-source kubernetes health and monitoring tool intended for OpenFaaS developers.<br><br>In my free time, I enjoy hunting for street tacos and spending time with my new puppo.
 
